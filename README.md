@@ -19,7 +19,7 @@ Live Demo
 
 ## 🛠️ Tech Stack
 - React JS  
-- JavaScript (ES6+)  
+- JavaScript (ES6+)
 - CSS / Tailwind CSS  
 - OpenRouter / OpenAI API  
 
